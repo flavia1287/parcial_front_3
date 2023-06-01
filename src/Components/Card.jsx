@@ -1,8 +1,11 @@
-import React from 'react'
+
+import Form from './Form'
 
 const Card = () => {
   return (
-    <div>Hola, soy una tarjeta</div>
+    <div>
+      <Form/>
+    </div>
   )
 }
 
